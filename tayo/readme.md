@@ -21,3 +21,7 @@ conda create --name tayo tensorflow-gpu
 conda install -c conda-forge opencv
 ```
 9. 깃 셋팅
+```
+https://github.com/PINTO0309/OpenVINO-YoloV3
+```
+
