@@ -7,8 +7,6 @@ https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino
 ```
 3. cmake 설치
 4. 기타 요구사항 설치후 데모 테스트
-
-4.1 데모 경로
 ```
 https://docs.openvinotoolkit.org/2018_R5/_samples_security_barrier_camera_demo_README.html
 ````
