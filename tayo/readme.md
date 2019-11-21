@@ -14,6 +14,10 @@ https://docs.openvinotoolkit.org/2018_R5/_samples_security_barrier_camera_demo_R
 ```
 https://www.christitus.com/logitech-c920-linux-driver/
 ``` 
+카메라 장치 경로 확인
+```
+https://askubuntu.com/questions/348838/how-to-check-available-webcams-from-the-command-line
+```
 6. 아나콘다 설치
 7. 콘다 환경 셋팅
 ```
